@@ -1,0 +1,4 @@
+adversarial-robustness-toolbox[pytorch]==1.4.2
+tqdm
+notebook
+ipywidgets
